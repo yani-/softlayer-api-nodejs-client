@@ -5,6 +5,7 @@
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yani-/softlayer-api-nodejs-client/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Dependency Status](https://gemnasium.com/yani-/softlayer-api-nodejs-client.png)](https://gemnasium.com/yani-/softlayer-api-nodejs-client)
 [![NPM version](https://badge.fury.io/js/softlayer-api-nodejs-client.png)](http://badge.fury.io/js/softlayer-api-nodejs-client)
+[![NPM downloads](https://nodei.co/npm-dl/softlayer-api-nodejs-client.png?months=1)](https://nodei.co/npm-dl/softlayer-api-nodejs-client.png?months=1)
 
 Fully tested SoftLayer API Node.js client that provides a simple method for connecting to and making calls from the SoftLayer API. All SoftLayer API’s features are supported
 
