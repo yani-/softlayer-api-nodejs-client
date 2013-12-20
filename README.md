@@ -9,7 +9,7 @@
 Fully tested SoftLayer API Node.js client that provides a simple method for connecting to and making calls from the SoftLayer API. All SoftLayer API’s features are supported
 
 ### Requirements
-Node.js v0.6.21 and up. Tested on v0.6.21 v0.8.23 v0.8.25 v0.8.26 v0.10.18 v0.10.22 v0.11.9
+Node.js v0.8.23 and up. Tested on v0.8.23 v0.8.25 v0.8.26 v0.10.18 v0.10.22 v0.11.9
 
 ### Usage
 
