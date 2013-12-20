@@ -1,7 +1,6 @@
 # A SoftLayer API Node.js Client
 
 [![Build Status](https://travis-ci.org/yani-/softlayer-api-nodejs-client.png)](https://travis-ci.org/yani-/softlayer-api-nodejs-client)
-[![Coverage Status](https://coveralls.io/repos/yani-/softlayer-api-nodejs-client/badge.png)](https://coveralls.io/r/yani-/softlayer-api-nodejs-client)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yani-/softlayer-api-nodejs-client/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Dependency Status](https://gemnasium.com/yani-/softlayer-api-nodejs-client.png)](https://gemnasium.com/yani-/softlayer-api-nodejs-client)
 [![NPM version](https://badge.fury.io/js/softlayer-api-nodejs-client.png)](http://badge.fury.io/js/softlayer-api-nodejs-client)
